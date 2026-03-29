@@ -5,7 +5,8 @@
 ## Live Prototype
 
 Access the working system here:  
-https://anmolvatsal.github.io/clearpath_ai/
+https://claude.ai/public/artifacts/676ecf30-335a-4c74-89c9-bf5aed014bab
+
 
 
 ## 
