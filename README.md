@@ -1,5 +1,10 @@
 # ClearPath AI
 
+## Live Prototype
+
+Access the working system here:  
+https://anmolvatsal.github.io/clearpath_ai/
+
 ### Trust-First Decision Intelligence for Healthcare Revenue Cycle
 
 \---
