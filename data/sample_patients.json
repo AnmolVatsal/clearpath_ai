@@ -1,0 +1,62 @@
+[
+  {
+    "id": "PT-10001",
+    "name": "Priya Sharma",
+    "username": "priya1",
+    "password": "pass1",
+    "age": 38,
+    "gender": "Female",
+    "insurer": "UnitedHealth",
+    "diagnosis": "Type 2 Diabetes",
+    "icd": "E11.9",
+    "procedure": "Office Visit",
+    "cpt": "99213",
+    "riskScore": 32,
+    "status": "APPROVED"
+  },
+  {
+    "id": "PT-10002",
+    "name": "Arjun Patel",
+    "username": "arjun2",
+    "password": "pass2",
+    "age": 51,
+    "gender": "Male",
+    "insurer": "Cigna",
+    "diagnosis": "Low Back Pain",
+    "icd": "M54.5",
+    "procedure": "MRI Brain w/ Contrast",
+    "cpt": "70553",
+    "riskScore": 58,
+    "status": "NEEDS_REVIEW"
+  },
+  {
+    "id": "PT-10003",
+    "name": "Meera Iyer",
+    "username": "meera3",
+    "password": "pass3",
+    "age": 44,
+    "gender": "Female",
+    "insurer": "Aetna",
+    "diagnosis": "Essential Hypertension",
+    "icd": "I10",
+    "procedure": "Echocardiogram",
+    "cpt": "93306",
+    "riskScore": 41,
+    "status": "APPROVED"
+  },
+  {
+    "id": "PT-10004",
+    "name": "Rohan Reddy",
+    "username": "rohan4",
+    "password": "pass4",
+    "age": 63,
+    "gender": "Male",
+    "insurer": "Humana",
+    "diagnosis": "Chronic Kidney Disease",
+    "icd": "N18.3",
+    "procedure": "Colonoscopy",
+    "cpt": "45378",
+    "riskScore": 77,
+    "status": "DENIED"
+  }
+]

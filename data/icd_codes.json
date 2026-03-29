@@ -1,0 +1,18 @@
+[
+  {
+    "code": "E11.9",
+    "description": "Type 2 Diabetes"
+  },
+  {
+    "code": "I10",
+    "description": "Essential Hypertension"
+  },
+  {
+    "code": "M54.5",
+    "description": "Low Back Pain"
+  },
+  {
+    "code": "N18.3",
+    "description": "Chronic Kidney Disease"
+  }
+]

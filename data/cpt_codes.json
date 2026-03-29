@@ -1,0 +1,18 @@
+[
+  {
+    "code": "99213",
+    "description": "Office Visit"
+  },
+  {
+    "code": "70553",
+    "description": "MRI Brain w/ Contrast"
+  },
+  {
+    "code": "93306",
+    "description": "Echocardiogram"
+  },
+  {
+    "code": "45378",
+    "description": "Colonoscopy"
+  }
+]

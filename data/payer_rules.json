@@ -1,0 +1,18 @@
+[
+  {
+    "payer": "UnitedHealth",
+    "rule": "Standard coverage for low-risk routine visits"
+  },
+  {
+    "payer": "Cigna",
+    "rule": "Additional documentation required for select imaging"
+  },
+  {
+    "payer": "Aetna",
+    "rule": "Routine cardiac diagnostics under normal review pathway"
+  },
+  {
+    "payer": "Humana",
+    "rule": "Higher scrutiny for elevated risk and specialty procedures"
+  }
+]
