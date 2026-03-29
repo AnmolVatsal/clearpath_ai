@@ -1,13 +1,12 @@
 # ClearPath AI
 
+### Trust-First Decision Intelligence for Healthcare Revenue Cycle
+
 ## Live Prototype
 
 Access the working system here:  
 https://anmolvatsal.github.io/clearpath_ai/
 
-### Trust-First Decision Intelligence for Healthcare Revenue Cycle
-
-\---
 
 ## 
 
@@ -17,7 +16,7 @@ ClearPath AI is a decision intelligence system designed to streamline and automa
 
 The system processes clinical, procedural, and policy data to deliver real-time, explainable decisions for claims processing, authorization, and compliance management.
 
-\---
+
 
 ## 
 
@@ -32,7 +31,7 @@ Healthcare revenue systems today face critical challenges:
 
 These inefficiencies result in significant administrative overhead and revenue loss.
 
-\---
+
 
 ## 
 
@@ -45,7 +44,7 @@ ClearPath AI introduces a structured decision engine that:
 * Generates explainable decisions
 * Maintains a complete audit trail for compliance
 
-\---
+
 
 ## 
 
@@ -58,7 +57,7 @@ ClearPath AI introduces a structured decision engine that:
 * Workflow automation
 * Policy simulation capabilities
 
-\---
+
 
 ## 
 
@@ -78,7 +77,7 @@ Processes inputs through rule-based evaluation and decision logic, ensuring accu
 
 Handles workflow automation including authorization, claims processing, and denial management.
 
-\---
+
 
 ## 
 
@@ -91,7 +90,7 @@ Handles workflow automation including authorization, claims processing, and deni
 5. Audit logging
 6. Workflow execution
 
-\---
+
 
 ## 
 
@@ -102,7 +101,7 @@ Handles workflow automation including authorization, claims processing, and deni
 * 60% reduction in manual intervention
 * 100% audit-ready system
 
-\---
+
 
 ## 
 
@@ -110,7 +109,7 @@ Handles workflow automation including authorization, claims processing, and deni
 
 Refer to the `frontend/assets` folder for demo video and UI previews.
 
-\---
+
 
 ## 
 
@@ -118,7 +117,7 @@ Refer to the `frontend/assets` folder for demo video and UI previews.
 
 Detailed architecture and system design available in the `docs/` directory.
 
-\---
+
 
 ## 
 
